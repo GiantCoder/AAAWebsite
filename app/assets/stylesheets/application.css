@@ -13,3 +13,26 @@
  *= require_tree .
  *= require_self
  */
+* {
+  font-family: 'Lato', 'Ubuntu', sans-serif;
+}
+
+nav {
+  color: green;
+}
+
+li {
+  color: blue;
+}
+
+a:hover {
+  color: red;
+}
+
+td {
+  background-color: cyan;
+}
+
+tr {
+  border-bottom: 1px dotted gray;
+}
